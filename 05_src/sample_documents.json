@@ -1,0 +1,131 @@
+{
+  "documents": [
+    {
+      "id": "doc_1",
+      "content": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn like humans. These systems can perform tasks such as visual perception, speech recognition, decision-making, and language translation.",
+      "category": "technology",
+      "tags": ["AI", "machine learning", "automation"]
+    },
+    {
+      "id": "doc_2",
+      "content": "Machine Learning is a subset of artificial intelligence that focuses on building systems that learn from data. Instead of being explicitly programmed, these systems use algorithms to identify patterns and make decisions with minimal human intervention.",
+      "category": "technology",
+      "tags": ["machine learning", "algorithms", "data science"]
+    },
+    {
+      "id": "doc_3",
+      "content": "Neural Networks are computing systems inspired by the human brain's biological neural networks. They consist of interconnected nodes that process information and can learn to perform tasks by considering examples without being programmed with task-specific rules.",
+      "category": "technology",
+      "tags": ["neural networks", "deep learning", "AI models"]
+    },
+    {
+      "id": "doc_4",
+      "content": "Python is a high-level programming language known for its simplicity and readability. It has become the most popular language for data science and machine learning due to its extensive libraries like NumPy, Pandas, and TensorFlow.",
+      "category": "programming",
+      "tags": ["python", "programming", "data science"]
+    },
+    {
+      "id": "doc_5",
+      "content": "Climate Change refers to long-term shifts in temperatures and weather patterns. While these shifts can be natural, since the 1800s, human activities have been the main driver of climate change, primarily due to burning fossil fuels.",
+      "category": "science",
+      "tags": ["climate", "environment", "sustainability"]
+    },
+    {
+      "id": "doc_6",
+      "content": "Renewable Energy comes from natural sources that are constantly replenished. Major types include solar power from sunlight, wind power from wind turbines, hydroelectric power from flowing water, and geothermal energy from the Earth's heat.",
+      "category": "science",
+      "tags": ["renewable energy", "sustainability", "clean energy"]
+    },
+    {
+      "id": "doc_7",
+      "content": "Blockchain is a decentralized digital ledger that records transactions across many computers in such a way that the registered transactions cannot be altered retroactively. This technology is the foundation for cryptocurrencies like Bitcoin and Ethereum.",
+      "category": "technology",
+      "tags": ["blockchain", "cryptocurrency", "decentralized"]
+    },
+    {
+      "id": "doc_8",
+      "content": "Quantum Computing uses quantum-mechanical phenomena like superposition and entanglement to perform computation. Quantum computers could solve certain problems exponentially faster than classical computers, revolutionizing fields like cryptography and drug discovery.",
+      "category": "technology",
+      "tags": ["quantum computing", "physics", "future tech"]
+    },
+    {
+      "id": "doc_9",
+      "content": "Virtual Reality (VR) creates completely immersive simulated environments that users can interact with using special electronic equipment. Augmented Reality (AR) overlays digital information onto the real world, enhancing rather than replacing reality.",
+      "category": "technology",
+      "tags": ["VR", "AR", "immersive technology"]
+    },
+    {
+      "id": "doc_10",
+      "content": "The Internet of Things (IoT) describes physical objects embedded with sensors, software, and other technologies to connect and exchange data with other devices and systems over the internet. Examples include smart home devices and wearable technology.",
+      "category": "technology",
+      "tags": ["IoT", "smart devices", "connectivity"]
+    },
+    {
+      "id": "doc_11",
+      "content": "Data Science is an interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data. It combines statistics, computer science, and domain expertise.",
+      "category": "technology",
+      "tags": ["data science", "analytics", "big data"]
+    },
+    {
+      "id": "doc_12",
+      "content": "Cloud Computing is the delivery of computing services over the internet, including servers, storage, databases, networking, software, and analytics. It allows flexible resources and economies of scale without direct active management by the user.",
+      "category": "technology",
+      "tags": ["cloud computing", "servers", "infrastructure"]
+    },
+    {
+      "id": "doc_13",
+      "content": "Cybersecurity involves protecting computer systems, networks, and data from digital attacks. These measures are designed to combat threats against networked systems and applications, whether those threats originate from inside or outside an organization.",
+      "category": "technology",
+      "tags": ["cybersecurity", "privacy", "network security"]
+    },
+    {
+      "id": "doc_14",
+      "content": "Space Exploration is the investigation of physical conditions in space and on stars, planets, and other celestial bodies through the use of artificial satellites, space probes, and spacecraft with human crews. Major achievements include moon landings and Mars rovers.",
+      "category": "science",
+      "tags": ["space", "astronomy", "exploration"]
+    },
+    {
+      "id": "doc_15",
+      "content": "Biotechnology uses biological systems, living organisms, or derivatives thereof to make or modify products or processes for specific use. Applications include medical treatments, agricultural improvements, and industrial manufacturing.",
+      "category": "science",
+      "tags": ["biotechnology", "biology", "innovation"]
+    },
+    {
+      "id": "doc_16",
+      "content": "Robotics is an interdisciplinary field that combines computer science and engineering to design, construct, operate, and use robots. Robots can be used in many situations for many purposes, including manufacturing, space exploration, and healthcare.",
+      "category": "technology",
+      "tags": ["robotics", "automation", "engineering"]
+    },
+    {
+      "id": "doc_17",
+      "content": "5G Technology is the fifth generation technology standard for broadband cellular networks. It offers higher speeds, lower latency, and greater capacity than previous 4G networks, enabling new applications in IoT, autonomous vehicles, and smart cities.",
+      "category": "technology",
+      "tags": ["5G", "wireless", "connectivity"]
+    },
+    {
+      "id": "doc_18",
+      "content": "Sustainable Development meets the needs of the present without compromising the ability of future generations to meet their own needs. It balances economic growth, environmental protection, and social well-being through responsible resource management.",
+      "category": "science",
+      "tags": ["sustainability", "development", "environment"]
+    },
+    {
+      "id": "doc_19",
+      "content": "Nanotechnology involves manipulating matter on an atomic and molecular scale, typically between 1 to 100 nanometers. It has applications in medicine, electronics, energy production, and materials science, enabling new properties and functionalities.",
+      "category": "science",
+      "tags": ["nanotechnology", "materials", "innovation"]
+    },
+    {
+      "id": "doc_20",
+      "content": "Open Source refers to software with source code that anyone can inspect, modify, and enhance. This collaborative approach to software development has produced major projects like Linux, Apache, and programming languages like Python and JavaScript.",
+      "category": "programming",
+      "tags": ["open source", "software", "collaboration"]
+    }
+  ],
+  "metadata": {
+    "total_documents": 20,
+    "categories": ["technology", "science", "programming"],
+    "created_date": "2024-01-15",
+    "description": "Sample knowledge base for semantic search featuring technology, science, and programming topics",
+    "file_size": "~15KB"
+  }
+}
